@@ -366,3 +366,5 @@ FodyWeavers.xsd
 /setup/Setup Files
 /setup/ViGEmBus-cache
 /setup/ViGEmBus.back.aip
+/sdk
+*.aip
